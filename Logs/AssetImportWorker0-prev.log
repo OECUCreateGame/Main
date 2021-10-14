@@ -143,6 +143,7 @@ Received Import Request.
   artifactKey: Guid(e6c9261c59fa021458265944e6a8135c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Audio using Guid(e6c9261c59fa021458265944e6a8135c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a24c6931d310ac077ac1341cec26f5ef') in 0.007772 seconds
   Import took 0.009750 seconds .
+<<<<<<< HEAD
 
 ========================================================================
 Received Import Request.
@@ -159,5 +160,6 @@ Received Import Request.
   artifactKey: Guid(638b04b8680cf42b4baa5e0e1cb5a9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/New Material.mat using Guid(638b04b8680cf42b4baa5e0e1cb5a9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0034c33b2566771a372a371fcfa19a67') in 0.122790 seconds
   Import took 0.124588 seconds .
+=======
+>>>>>>> 03cea326bb546163315da7849c1cf93e8279ab6f
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
