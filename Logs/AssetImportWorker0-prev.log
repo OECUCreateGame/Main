@@ -79,6 +79,7 @@ Received Import Request.
   artifactKey: Guid(e3b41143c530a4a4d9846524f07cc237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes using Guid(e3b41143c530a4a4d9846524f07cc237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13d5bfedead1c5f20735fd918a189ea3') in 0.003915 seconds
   Import took 0.005822 seconds .
+<<<<<<< HEAD
 
 ========================================================================
 Received Import Request.
@@ -703,4 +704,14 @@ Received Import Request.
   artifactKey: Guid(724f52c120a7d4acaa927383edb942bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/HW21A023PreMake/ButtonPrefab/Button2.prefab using Guid(724f52c120a7d4acaa927383edb942bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e39eb9d8fbfebd76e2c3e7c0dc33f875') in 0.009853 seconds
   Import took 0.012530 seconds .
+=======
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '322f0cc00d2029362d67f6b938c21a89') in 0.010369 seconds
+  Import took 0.012101 seconds .
+>>>>>>> aa595ff653603941a5e1822910f4e91ea59d8d8d
 
